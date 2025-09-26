@@ -13,8 +13,6 @@ body ,html{
   width: 55%;
   margin: 10%;
   height: auto;
-
-
 }
 #child{
   width: 100%;
@@ -36,7 +34,7 @@ padding: 5px 10px;
  margin-bottom: 4px;
   background: #57606f;
   border-radius: 5px;
-  color: #fff;
+  font-weight: 100;
   border: none;
   padding:0 3px;
 }
@@ -55,5 +53,11 @@ margin: 3px;
 }
 .btn2{background: #2ed573;}
 .btn3{
- 
+ font-family: 'Courier New', Courier, monospace;
+ font-weight: 100;
+ background:#1abc9c ;
+ border: 0px;
+ color: #fff;
+ border-radius: 3px;
+ padding: 1px;
 }

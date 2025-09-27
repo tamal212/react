@@ -1,0 +1,28 @@
+#countNum{
+ background-color: #B53471;
+  width: 100%;
+  height: 200px;
+  /* max-height: 500px; */
+margin-top: 30px;
+    padding-top: 10%;
+} 
+.innerDiv{
+
+  height: 90px;
+  width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ background-color: rgba(232, 228, 228,.2);
+ backdrop-filter: blur(20px);
+}
+#btn{
+ margin-left: 42%;
+ margin-top: 10px;
+ background-color: #6F1E51;
+ color: #fff;
+ font-size: 19px;
+ padding: 5px;
+ border: none;
+ border-radius: 5px;
+}
